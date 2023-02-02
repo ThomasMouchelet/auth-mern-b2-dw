@@ -29,3 +29,11 @@ page my shops (filter by user)
 update/delete shop if owner
 
 # TODO 4
+Reset password
+https://whimsical.com/SCBije7q5jriQXw79va6dV
+
+### Exemple
+- Installer les dépendances
+- Monter les containers
+- Se rendre sur le localhost:8081
+- Exécuter la route GET /api/send-mail
